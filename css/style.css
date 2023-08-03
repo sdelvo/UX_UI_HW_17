@@ -33,6 +33,27 @@ ul {
 p {
     width: 500px;
     margin: 0 auto;
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat velit elit, id consectetur justo lobortis vel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat velit elit, id consectetur justo lobortis vel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat velit elit, id consectetur justo lobortis vel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum volutpat velit elit, id consectetur justo lobortis vel. */
+
+position: absolute;
+width: 473px;
+height: 283px;
+left: 840px;
+top: 414px;
+
+/* Lora 16pt
+
+Body Copy
+*/
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 31px;
+
+color: #000000;
+
+
 }
 
 footer {
